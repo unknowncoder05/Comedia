@@ -1,6 +1,8 @@
-¿Cuál es el animal que más se ríe?
+¿Cuál es el animal que se ríe más?
 —La hiena.
 —¿Y el que más muere de risa?
 —El del cirujano.
 
-JAJAJA no era tan bueno! :p 
+
+JAJAJA no era tan bueno! :p
+				// Este es el correcto
