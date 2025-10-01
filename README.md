@@ -1,1 +1,1 @@
-la mayor recopilaciond e comedia del mundo
+la mayor recopilacion de comedia del mundo
